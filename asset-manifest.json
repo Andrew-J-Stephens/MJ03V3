@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/capstone/static/css/main.ddc90d6d.css",
-    "main.js": "/capstone/static/js/main.d5820298.js",
-    "static/js/787.28cb0dcd.chunk.js": "/capstone/static/js/787.28cb0dcd.chunk.js",
-    "static/media/ryerson-logo-01.png": "/capstone/static/media/ryerson-logo-01.9bd7eb3cf352ec953143.png",
-    "index.html": "/capstone/index.html",
-    "main.ddc90d6d.css.map": "/capstone/static/css/main.ddc90d6d.css.map",
-    "main.d5820298.js.map": "/capstone/static/js/main.d5820298.js.map",
-    "787.28cb0dcd.chunk.js.map": "/capstone/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/MJ03V3/static/css/main.ddc90d6d.css",
+    "main.js": "/MJ03V3/static/js/main.bb89054b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MJ03V3/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ryerson-logo-01.png": "/MJ03V3/static/media/ryerson-logo-01.9bd7eb3cf352ec953143.png",
+    "index.html": "/MJ03V3/index.html",
+    "main.ddc90d6d.css.map": "/MJ03V3/static/css/main.ddc90d6d.css.map",
+    "main.bb89054b.js.map": "/MJ03V3/static/js/main.bb89054b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MJ03V3/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddc90d6d.css",
-    "static/js/main.d5820298.js"
+    "static/js/main.bb89054b.js"
   ]
 }
