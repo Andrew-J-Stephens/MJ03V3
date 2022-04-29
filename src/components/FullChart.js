@@ -23,9 +23,7 @@ const FullChart = ({childFunc}) => {
     setData2()
   }, [])
 
-  setInterval(function(){ 
-    getData()
-  }, 10000);
+  setInterval(getData(), 1000);
 
   function setData1() {
     getData()
